@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="9442576a-675f-4971-8894-5ece19006874" 
+        solutionId="9442576a-675f-4971-8894-5ece19006874" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CrudListApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="ef47b463-732e-4826-baa3-3b38d6d67800" />
+  </features>
+</package>

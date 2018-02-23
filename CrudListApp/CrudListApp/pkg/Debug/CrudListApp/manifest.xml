@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9442576a-675f-4971-8894-5ece19006874" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="CrudListApp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
