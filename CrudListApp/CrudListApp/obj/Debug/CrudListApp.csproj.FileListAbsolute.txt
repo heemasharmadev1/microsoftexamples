@@ -1,0 +1,3 @@
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CrudListApp\CrudListApp\bin\Debug\CrudListApp.pdb
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CrudListApp\CrudListApp\obj\Debug\CrudListApp.dll
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CrudListApp\CrudListApp\obj\Debug\CrudListApp.pdb
