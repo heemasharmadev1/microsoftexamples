@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="c99108fb-ff07-4b9e-94b0-ffccbbe14bfc" 
+        solutionId="c99108fb-ff07-4b9e-94b0-ffccbbe14bfc" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="RESTApi_SharePointHostedApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="326d0d02-7ccd-48a6-9ef8-04f17a552588" />
+  </features>
+</package>
