@@ -1,0 +1,3 @@
+C:\D-backup\SHAREPOINT\Learning\GitHosted\RESTApi-SharePointHostedApp\RESTApi-SharePointHostedApp\bin\Debug\RESTApi-SharePointHostedApp.pdb
+C:\D-backup\SHAREPOINT\Learning\GitHosted\RESTApi-SharePointHostedApp\RESTApi-SharePointHostedApp\obj\Debug\RESTApi-SharePointHostedApp.dll
+C:\D-backup\SHAREPOINT\Learning\GitHosted\RESTApi-SharePointHostedApp\RESTApi-SharePointHostedApp\obj\Debug\RESTApi-SharePointHostedApp.pdb
