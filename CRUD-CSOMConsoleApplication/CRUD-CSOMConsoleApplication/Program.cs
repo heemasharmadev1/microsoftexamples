@@ -14,9 +14,9 @@ namespace CRUD_CSOMConsoleApplication
     {
         static void Main(string[] args)
         {
-            string siteUrl = "https://sharmadev1.sharepoint.com/sites/intranetbook/";
-            string username = "heema@sharmadev1.onmicrosoft.com";
-            string password = "sharma99!";
+            string siteUrl = "your site name";
+            string username = "username";
+            string password = "password";
             string listName = "Employee";
             Web web;
 
