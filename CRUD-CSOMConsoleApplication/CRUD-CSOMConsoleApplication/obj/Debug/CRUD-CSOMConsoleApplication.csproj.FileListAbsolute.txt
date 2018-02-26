@@ -1,0 +1,8 @@
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\bin\Debug\CRUD-CSOMConsoleApplication.exe.config
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\bin\Debug\CRUD-CSOMConsoleApplication.exe
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\bin\Debug\CRUD-CSOMConsoleApplication.pdb
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\obj\Debug\CRUD-CSOMConsoleApplication.exe
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\obj\Debug\CRUD-CSOMConsoleApplication.pdb
+C:\D-backup\SHAREPOINT\Learning\GitHosted\CRUD-CSOMConsoleApplication\CRUD-CSOMConsoleApplication\obj\Debug\CRUD-CSOMConsoleApplication.csprojResolveAssemblyReference.cache
