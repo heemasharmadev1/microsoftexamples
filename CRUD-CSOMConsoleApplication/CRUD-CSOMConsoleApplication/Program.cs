@@ -30,7 +30,7 @@ namespace CRUD_CSOMConsoleApplication
 
                 web = clientContext.Web;
                 /*List all lists : starts*/
-                //GetAllLists(web,clientContext);
+                GetAllLists(web,clientContext);
                 /*List all lists : ends*/
 
                 //Get List Item
@@ -43,7 +43,7 @@ namespace CRUD_CSOMConsoleApplication
                 //UpdateListItem(web, clientContext, listName);
 
                 //delete an item
-                DeleteListItem(web, clientContext, listName);
+                //DeleteListItem(web, clientContext, listName);
                 Console.ReadLine();
             }
         }
